@@ -4,6 +4,10 @@ An end-to-end operational analytics project that transforms raw business data in
 
 The project demonstrates practical experience with **Python, SQL, ETL, data modeling, data quality validation, automated testing, anomaly detection, business analytics, and visualization**.
 
+## Live Demo
+
+[View the Live Streamlit Dashboard](https://ai-operational-analytics-data-quality-pipeline-2oezrg5mdmaxb6x.streamlit.app/)
+
 ---
 
 ## Business Problem
