@@ -1,0 +1,10 @@
+check_name,table,passed,issue_count,description
+Duplicate order IDs,orders,True,0,Order IDs should be unique.
+Missing customer IDs,orders,True,0,Orders require a customer ID.
+Invalid quantities,order_items,True,0,Quantity must be greater than zero.
+Invalid prices,order_items,True,0,Unit price must be greater than zero.
+Broken product references,order_items,True,0,Every item product ID must exist.
+Broken customer references,orders,True,0,Every order customer ID must exist.
+Impossible shipment dates,shipments,True,0,Actual delivery cannot be before shipment.
+Negative shipping cost,shipments,True,0,Shipping cost cannot be negative.
+Negative refund amount,returns,True,0,Refund amount cannot be negative.

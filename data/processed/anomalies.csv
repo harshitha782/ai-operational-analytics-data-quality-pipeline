@@ -1,0 +1,4 @@
+severity,area,finding,recommendation
+High,Fulfillment,Midwest has a 42.25% late-delivery rate.,Review carrier and warehouse performance in this region.
+High,Carrier Performance,Carrier B has the highest late-delivery rate at 41.67%.,Perform a carrier SLA review and consider shifting priority volume.
+Medium,Returns,Electronics has the highest return rate at 12.99%.,"Investigate product quality, descriptions, packaging, and supplier defects."
